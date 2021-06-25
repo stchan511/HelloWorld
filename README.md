@@ -1,7 +1,3 @@
-imy way is your way
-
-test second line
-
 # HelloWorld
 Test
 
